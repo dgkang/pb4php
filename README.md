@@ -6,8 +6,8 @@ fork from https://code.google.com/archive/p/pb4php
 支持protoV2  
 
 # 生成PHP文件
-cd example  
-php protoc.php test.proto  
+`cd example`    
+`php protoc.php test.proto`    
 
 # 例子
 ```PHP
